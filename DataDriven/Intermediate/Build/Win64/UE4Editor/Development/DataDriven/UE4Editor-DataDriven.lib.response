@@ -1,0 +1,14 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-DataDriven.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"E:\UE_4.22\UnrealProjects\FrameDemo\Intermediate\Build\Win64\FrameDemoEditor\Development\Engine\SharedPCH.Engine.h.obj"
+"E:\UE_4.22\UnrealProjects\FrameDemo\Plugins\DataDriven\Intermediate\Build\Win64\UE4Editor\Development\DataDriven\Module.DataDriven.cpp.obj"
+"E:\UE_4.22\UnrealProjects\FrameDemo\Plugins\DataDriven\Intermediate\Build\Win64\UE4Editor\Development\DataDriven\Module.DataDriven.gen.cpp.obj"
+"E:\UE_4.22\UnrealProjects\FrameDemo\Plugins\DataDriven\Intermediate\Build\Win64\UE4Editor\Development\DataDriven\Default.rc2.res"
+/OUT:"E:\UE_4.22\UnrealProjects\FrameDemo\Plugins\DataDriven\Intermediate\Build\Win64\UE4Editor\Development\DataDriven\UE4Editor-DataDriven.lib"
+/INCLUDE:IMPLEMENT_MODULE_DataDriven
